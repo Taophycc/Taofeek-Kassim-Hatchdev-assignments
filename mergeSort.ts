@@ -35,6 +35,4 @@ function mergeSort(arr: number[], low: number, high: number): void {
   }
 }
 
-const nums = [10, 5, 30, 15, 7];
-mergeSort(nums, 0, nums.length - 1);
-console.log(nums);
+
